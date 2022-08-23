@@ -27,8 +27,8 @@
     <string name="backup_transport_setting_label">Change backup provider</string>
     <string name="backup_transport_title">Select backup provider</string>
 
-    <!-- StagOS Version -->
-    <string name="stag_version">StagOS Version</string>
+    <!-- Mosquito Version -->
+    <string name="stag_version">Mosquito Version</string>
     <string name="stag_version_default">Unknown</string>
     <string name="keywords_stag_version">Stag version, stag</string>
 

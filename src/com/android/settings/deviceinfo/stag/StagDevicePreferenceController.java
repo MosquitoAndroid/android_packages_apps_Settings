@@ -26,7 +26,7 @@ public class StagDevicePreferenceController extends BasePreferenceController {
 
     private static final String TAG = "StagDevice";
 
-    private static final String KEY_STAG_DEVICE = "ro.stag.device";
+    private static final String KEY_STAG_DEVICE = "ro.mosquito.device";
 
     public StagDevicePreferenceController(Context context, String key) {
         super(context, key);

@@ -32,8 +32,8 @@ import java.lang.Exception;
 public class StagMaintainerPreferenceController extends BasePreferenceController {
 
     private static final String TAG = "StagMaintainerPreferenceController";
-    private static final String KEY_STAG_BUILD_TYPE = "ro.stag.releasetype";
-    private static final String KEY_STAG_DEVICE = "ro.stag.device";
+    private static final String KEY_STAG_BUILD_TYPE = "ro.mosquito.releasetype";
+    private static final String KEY_STAG_DEVICE = "ro.mosquito.device";
 
     public StagMaintainerPreferenceController(Context context, String key) {
         super(context, key);

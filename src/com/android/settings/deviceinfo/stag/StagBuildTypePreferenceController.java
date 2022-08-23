@@ -26,7 +26,7 @@ public class StagBuildTypePreferenceController extends BasePreferenceController 
 
     private static final String TAG = "StagBuildType";
 
-    private static final String KEY_STAG_BUILD_TYPE = "ro.stag.releasetype";
+    private static final String KEY_STAG_BUILD_TYPE = "ro.mosquito.releasetype";
 
     public StagBuildTypePreferenceController(Context context, String key) {
         super(context, key);

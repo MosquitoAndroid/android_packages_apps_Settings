@@ -26,7 +26,7 @@ public class StagVersionPreferenceController extends BasePreferenceController {
 
     private static final String TAG = "StagVersion";
 
-    private static final String KEY_STAG_VERSION = "ro.stag.build.version";
+    private static final String KEY_STAG_VERSION = "ro.mosquito.build.version";
 
     public StagVersionPreferenceController(Context context, String key) {
         super(context, key);
